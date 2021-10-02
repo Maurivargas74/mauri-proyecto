@@ -1,0 +1,19 @@
+.navbar-brand span{
+    color: brown;
+}
+.navbar-brand {
+    color:darkgoldenrod !important;
+}
+
+form{
+    margin: 0 auto;
+}
+
+#accordion{
+    margin-top: 50px;
+    width: 70%;
+    margin: 0 auto;
+
+
+
+}
