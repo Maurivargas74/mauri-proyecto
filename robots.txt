@@ -1,0 +1,6 @@
+user-agent:*
+Disallow:/login.html
+Disallow:/imagenes/
+Disallow:contactenos.html
+Allow:/imagenes/logo.png
+Sitemap:https://github.com/Maurivargas74/mauri-proyecto/sitemap.xml
